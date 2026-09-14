@@ -31,7 +31,7 @@
 
 OSPTEK **3.19″ 262×928 AMOLED** is a **MIPI DSI** color display module driven by **CO6300**, with touch IC **CST3530**. The tall aspect ratio suits bar HMIs, side status strips, and vertical info panels.
 
-Repo id: `3.19-amoled-262x928-mipi-co6300`
+Repo id: `amoled-3.19-262x928-mipi-co6300`
 
 Current module version: **AM319M262928ZS**. Electrical and mechanical details follow [`docs/AM_319_M262928_ZS_3a5effae7d.pdf`](./docs/AM_319_M262928_ZS_3a5effae7d.pdf).
 
@@ -52,12 +52,12 @@ Current module version: **AM319M262928ZS**. Electrical and mechanical details fo
 
 | Description | Path |
 | ----------- | ---- |
-| ESP32-P4 · CO6300 MIPI + CST3530 + LVGL | [`examples/esp32p4-3.19-amoled-262x928-mipi-co6300-bringup/`](./examples/esp32p4-3.19-amoled-262x928-mipi-co6300-bringup/) |
+| ESP32-P4 · CO6300 MIPI + CST3530 + LVGL | [`examples/esp32p4-amoled-3.19-262x928-mipi-co6300-bringup/`](./examples/esp32p4-amoled-3.19-262x928-mipi-co6300-bringup/) |
 
 ## Repository layout
 
 ```text
-3.19-amoled-262x928-mipi-co6300/                                # repo root (nav: ../../README_EN.md)
+amoled-3.19-262x928-mipi-co6300/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM319M262928ZS/                                # full materials for this part number
         ├── README.md
@@ -82,7 +82,7 @@ Current module version: **AM319M262928ZS**. Electrical and mechanical details fo
 
 ### Samples
 
-- [ESP32-P4 CO6300 MIPI + CST3530 + LVGL](./examples/esp32p4-3.19-amoled-262x928-mipi-co6300-bringup/)
+- [ESP32-P4 CO6300 MIPI + CST3530 + LVGL](./examples/esp32p4-amoled-3.19-262x928-mipi-co6300-bringup/)
 
 ## Where to Buy
 

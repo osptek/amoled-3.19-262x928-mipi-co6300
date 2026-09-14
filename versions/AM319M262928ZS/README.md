@@ -31,7 +31,7 @@
 
 OSPTEK **3.19 寸 262×928 AMOLED** 是一款 **MIPI DSI** 接口彩色显示模组，显示驱动为 **CO6300**，触摸驱动为 **CST3530**。细长分辨率适合条形 HMI、侧边状态条与竖向信息面板等场景。
 
-规格标识（仓库名）：`3.19-amoled-262x928-mipi-co6300`
+规格标识（仓库名）：`amoled-3.19-262x928-mipi-co6300`
 
 当前模组版本：**AM319M262928ZS**。电气与外形细节以 [`docs/AM_319_M262928_ZS_3a5effae7d.pdf`](./docs/AM_319_M262928_ZS_3a5effae7d.pdf) 为准。
 
@@ -52,12 +52,12 @@ OSPTEK **3.19 寸 262×928 AMOLED** 是一款 **MIPI DSI** 接口彩色显示模
 
 | 说明 | 路径 |
 | ---- | ---- |
-| ESP32-P4 · CO6300 MIPI + CST3530 + LVGL | [`examples/esp32p4-3.19-amoled-262x928-mipi-co6300-bringup/`](./examples/esp32p4-3.19-amoled-262x928-mipi-co6300-bringup/) |
+| ESP32-P4 · CO6300 MIPI + CST3530 + LVGL | [`examples/esp32p4-amoled-3.19-262x928-mipi-co6300-bringup/`](./examples/esp32p4-amoled-3.19-262x928-mipi-co6300-bringup/) |
 
 ## 仓库结构
 
 ```text
-3.19-amoled-262x928-mipi-co6300/                                # 仓库根（导航见 ../../README.md）
+amoled-3.19-262x928-mipi-co6300/                                # 仓库根（导航见 ../../README.md）
 └── versions/
     └── AM319M262928ZS/                                # 本料号完整资料
         ├── README.md
@@ -82,7 +82,7 @@ OSPTEK **3.19 寸 262×928 AMOLED** 是一款 **MIPI DSI** 接口彩色显示模
 
 ### 示例工程
 
-- [ESP32-P4 CO6300 MIPI + CST3530 + LVGL](./examples/esp32p4-3.19-amoled-262x928-mipi-co6300-bringup/)
+- [ESP32-P4 CO6300 MIPI + CST3530 + LVGL](./examples/esp32p4-amoled-3.19-262x928-mipi-co6300-bringup/)
 
 ## 购买链接
 
