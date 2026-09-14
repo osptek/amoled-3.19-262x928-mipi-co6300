@@ -78,7 +78,15 @@ amoled-3.19-262x928-mipi-co6300/                                # 仓库根（�
 | 触摸 IC 数据手册（CST3530） | [`docs/CST_3530_V1_0_adb72690f0.pdf`](./docs/CST_3530_V1_0_adb72690f0.pdf) |
 | 初始化序列（文本） | [`docs/AM319M262928ZS_CO6300_init_BOE3.19.txt`](./docs/AM319M262928ZS_CO6300_init_BOE3.19.txt) |
 | 转接板原理图 | [`docs/3.19寸262x928 AMOLED转接板.pdf`](./docs/3.19%E5%AF%B8262x928%20AMOLED%E8%BD%AC%E6%8E%A5%E6%9D%BF.pdf) |
+| PCB 尺寸图（正面 · 27.00×93.00 mm） | [`images/dimensions-front.png`](./images/dimensions-front.png) |
+| PCB 尺寸图（背面 · 27.00×93.00 mm） | [`images/dimensions-back.png`](./images/dimensions-back.png) |
 | 转接板联调实拍 | [`assets/adapter-board-demo.jpg`](./assets/adapter-board-demo.jpg) |
+
+<p align="center">
+  <img alt="3.19 寸 AMOLED PCB 尺寸图（正面）" src="./images/dimensions-front.png" width="280" />
+  &nbsp;&nbsp;
+  <img alt="3.19 寸 AMOLED PCB 尺寸图（背面）" src="./images/dimensions-back.png" width="280" />
+</p>
 
 ### 示例工程
 

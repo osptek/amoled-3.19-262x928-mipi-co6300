@@ -78,7 +78,15 @@ amoled-3.19-262x928-mipi-co6300/                                # repo root (nav
 | Touch IC datasheet (CST3530) | [`docs/CST_3530_V1_0_adb72690f0.pdf`](./docs/CST_3530_V1_0_adb72690f0.pdf) |
 | Init sequence (text) | [`docs/AM319M262928ZS_CO6300_init_BOE3.19.txt`](./docs/AM319M262928ZS_CO6300_init_BOE3.19.txt) |
 | Adapter board schematic | [`docs/3.19寸262x928 AMOLED转接板.pdf`](./docs/3.19%E5%AF%B8262x928%20AMOLED%E8%BD%AC%E6%8E%A5%E6%9D%BF.pdf) |
+| PCB outline (front · 27.00×93.00 mm) | [`images/dimensions-front.png`](./images/dimensions-front.png) |
+| PCB outline (back · 27.00×93.00 mm) | [`images/dimensions-back.png`](./images/dimensions-back.png) |
 | Adapter board demo photo | [`assets/adapter-board-demo.jpg`](./assets/adapter-board-demo.jpg) |
+
+<p align="center">
+  <img alt="3.19&quot; AMOLED PCB outline (front)" src="./images/dimensions-front.png" width="280" />
+  &nbsp;&nbsp;
+  <img alt="3.19&quot; AMOLED PCB outline (back)" src="./images/dimensions-back.png" width="280" />
+</p>
 
 ### Samples
 
