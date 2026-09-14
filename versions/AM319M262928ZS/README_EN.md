@@ -79,13 +79,20 @@ amoled-3.19-262x928-mipi-co6300/                                # repo root (nav
 | Init sequence (text) | [`docs/AM319M262928ZS_CO6300_init_BOE3.19.txt`](./docs/AM319M262928ZS_CO6300_init_BOE3.19.txt) |
 | Adapter board schematic | [`docs/3.19寸262x928 AMOLED转接板.pdf`](./docs/3.19%E5%AF%B8262x928%20AMOLED%E8%BD%AC%E6%8E%A5%E6%9D%BF.pdf) |
 | PCB outline (front · 27.00×93.00 mm) | [`images/dimensions-front.png`](./images/dimensions-front.png) |
+| PCB outline (front diagonal · 96.84 mm) | [`images/dimensions-front-diagonal.png`](./images/dimensions-front-diagonal.png) |
 | PCB outline (back · 27.00×93.00 mm) | [`images/dimensions-back.png`](./images/dimensions-back.png) |
+| PCB outline (back connectors) | [`images/dimensions-back-connector.png`](./images/dimensions-back-connector.png) |
 | Adapter board demo photo | [`assets/adapter-board-demo.jpg`](./assets/adapter-board-demo.jpg) |
 
 <p align="center">
-  <img alt="3.19&quot; AMOLED PCB outline (front)" src="./images/dimensions-front.png" width="280" />
+  <img alt="3.19&quot; AMOLED PCB outline (front)" src="./images/dimensions-front.png" width="220" />
   &nbsp;&nbsp;
-  <img alt="3.19&quot; AMOLED PCB outline (back)" src="./images/dimensions-back.png" width="280" />
+  <img alt="3.19&quot; AMOLED PCB outline (front diagonal)" src="./images/dimensions-front-diagonal.png" width="220" />
+</p>
+<p align="center">
+  <img alt="3.19&quot; AMOLED PCB outline (back)" src="./images/dimensions-back.png" width="220" />
+  &nbsp;&nbsp;
+  <img alt="3.19&quot; AMOLED PCB outline (back connectors)" src="./images/dimensions-back-connector.png" width="220" />
 </p>
 
 ### Samples
