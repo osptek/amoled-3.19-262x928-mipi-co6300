@@ -5,7 +5,7 @@ size: "3.19"
 panel: amoled
 resolution: 262x928
 interface: [mipi]
-shape: bar
+shape: rect
 
 versions:
   - id: AM319M262928ZS
