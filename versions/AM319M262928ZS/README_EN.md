@@ -53,6 +53,10 @@ Current module version: **AM319M262928ZS**. Electrical and mechanical details fo
 | Description | Path |
 | ----------- | ---- |
 | ESP32-P4 · CO6300 MIPI + CST3530 + LVGL | [`examples/esp32p4-amoled-3.19-262x928-mipi-co6300-bringup/`](./examples/esp32p4-amoled-3.19-262x928-mipi-co6300-bringup/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · CO6300 MIPI + CST3530 + LVGL 9 | [`examples/esp32p4-idf6_co6300-mipi_esp-lvgl-port_lvgl9/`](./examples/esp32p4-idf6_co6300-mipi_esp-lvgl-port_lvgl9/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · CO6300 MIPI + CST3530 + LVGL 9 (PPA landscape) | [`examples/esp32p4-idf6_co6300-mipi_esp-lvgl-port_lvgl9_ppa/`](./examples/esp32p4-idf6_co6300-mipi_esp-lvgl-port_lvgl9_ppa/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · CST3530 I2C touch test | [`examples/esp32p4-idf6_cst3530-touch-i2c/`](./examples/esp32p4-idf6_cst3530-touch-i2c/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · I2C address scanner | [`examples/esp32p4-idf6_i2c-scanner/`](./examples/esp32p4-idf6_i2c-scanner/) |
 
 ## Repository layout
 
@@ -98,6 +102,10 @@ amoled-3.19-262x928-mipi-co6300/                                # repo root (nav
 ### Samples
 
 - [ESP32-P4 CO6300 MIPI + CST3530 + LVGL](./examples/esp32p4-amoled-3.19-262x928-mipi-co6300-bringup/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · CO6300 MIPI + CST3530 + LVGL 9](./examples/esp32p4-idf6_co6300-mipi_esp-lvgl-port_lvgl9/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · CO6300 MIPI + CST3530 + LVGL 9 (PPA landscape)](./examples/esp32p4-idf6_co6300-mipi_esp-lvgl-port_lvgl9_ppa/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · CST3530 I2C touch test](./examples/esp32p4-idf6_cst3530-touch-i2c/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · I2C address scanner](./examples/esp32p4-idf6_i2c-scanner/)
 
 ## Where to Buy
 
